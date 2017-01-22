@@ -7,4 +7,6 @@ Contents: None (so far)
 
 This could be the basis for a thesis if it pans out :)
 
-
+update post 337, during 236: another interesting comparison seems to be ratios of signs, not just modular exponents. But also, 
+TAYLOR SERIES: VER. RELEVANT
+MERCAOTR SERIES: taylor series of natural log (ln)
